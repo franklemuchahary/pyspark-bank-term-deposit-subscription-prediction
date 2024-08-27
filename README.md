@@ -1,4 +1,4 @@
-# Team 42 (Team 3) - Mini Project 2: Bank Term Deposit Subscription
+# Team Mini Project: Bank Term Deposit Subscription Prediction
 
 ## Executive Summary
 This project addressed the challenge of predicting potential subscribers for a bank's term deposit plan. The primary goal was to enhance the bank's marketing strategy through data-driven insights. We approached this by:
@@ -42,7 +42,6 @@ These findings provide a roadmap for the bank to refine its approach to marketin
 
 
 ## Team Members
-**Team 42 (Team 3)**
 - Roy Chowdhury, Ritwik
 - Datta Chakraborty, Shreyan
 - Muchahary, Frankle
